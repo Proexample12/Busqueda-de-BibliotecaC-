@@ -22,7 +22,7 @@ namespace módulo_de_búsqueda
             new Autor("Fiódor Dostoyevski"),
             new Autor("Gabriel García Márquez"),
             new Autor("George Orwell"),
-            new Autor("Homer"), // o Homero
+            new Autor("Homer"),
             new Autor("Jane Austen"),
             new Autor("J.K. Rowling"),
             new Autor("J.R.R. Tolkien"),
