@@ -1,0 +1,15 @@
+C:\Users\caraz\OneDrive\Escritorio\ProgramEstruc\módulo de búsqueda\módulo de búsqueda\bin\Debug\módulo de búsqueda.exe.config
+C:\Users\caraz\OneDrive\Escritorio\ProgramEstruc\módulo de búsqueda\módulo de búsqueda\bin\Debug\módulo de búsqueda.exe
+C:\Users\caraz\OneDrive\Escritorio\ProgramEstruc\módulo de búsqueda\módulo de búsqueda\bin\Debug\módulo de búsqueda.pdb
+C:\Users\caraz\OneDrive\Escritorio\ProgramEstruc\módulo de búsqueda\módulo de búsqueda\obj\Debug\módulo de búsqueda.csproj.AssemblyReference.cache
+C:\Users\caraz\OneDrive\Escritorio\ProgramEstruc\módulo de búsqueda\módulo de búsqueda\obj\Debug\módulo de búsqueda.csproj.CoreCompileInputs.cache
+C:\Users\caraz\OneDrive\Escritorio\ProgramEstruc\módulo de búsqueda\módulo de búsqueda\obj\Debug\módulo de búsqueda.exe
+C:\Users\caraz\OneDrive\Escritorio\ProgramEstruc\módulo de búsqueda\módulo de búsqueda\obj\Debug\módulo de búsqueda.pdb
+C:\Users\mgmav\OneDrive\Escritorio\Proyecto Busqueda\módulo de búsqueda\módulo de búsqueda\obj\Debug\módulo de búsqueda.csproj.AssemblyReference.cache
+C:\Users\mgmav\OneDrive\Escritorio\Proyecto Busqueda\módulo de búsqueda\módulo de búsqueda\obj\Debug\módulo de búsqueda.exe.config
+C:\Users\mgmav\OneDrive\Escritorio\Proyecto Busqueda\módulo de búsqueda\módulo de búsqueda\obj\Debug\módulo de búsqueda.csproj.CoreCompileInputs.cache
+C:\Users\mgmav\OneDrive\Escritorio\Proyecto Busqueda\módulo de búsqueda\módulo de búsqueda\obj\Debug\módulo de búsqueda.exe
+C:\Users\mgmav\OneDrive\Escritorio\Proyecto Busqueda\módulo de búsqueda\módulo de búsqueda\obj\Debug\módulo de búsqueda.pdb
+C:\Users\mgmav\OneDrive\Escritorio\Proyecto Busqueda\módulo de búsqueda\módulo de búsqueda\bin\Debug\módulo de búsqueda.exe.config
+C:\Users\mgmav\OneDrive\Escritorio\Proyecto Busqueda\módulo de búsqueda\módulo de búsqueda\bin\Debug\módulo de búsqueda.exe
+C:\Users\mgmav\OneDrive\Escritorio\Proyecto Busqueda\módulo de búsqueda\módulo de búsqueda\bin\Debug\módulo de búsqueda.pdb
